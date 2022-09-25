@@ -2,4 +2,4 @@
 
 Snake game written in ClojureScript and Re-frame
 
-Run `lein fig:build` and open [localhost:9500](http://localhost:9500/) in your browser
+You can find a tutorial here [http://herichovadajana.com/snake-game/] (/http://herichovadajana.com/snake-game/) 
